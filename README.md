@@ -54,5 +54,3 @@
 - GitHub: [github.com/chaihanij](https://github.com/chaihanij)
 
 ---
-
-## ✨ Let's build something amazing together!
