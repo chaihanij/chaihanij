@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wachirawat Chaihanij
 
-**Senior Software Engineer | Full Stack Developer | Cloud-Native Enthusiast**
+** Full Stack Developer | Cloud-Native Enthusiast**
 
 ---
 
